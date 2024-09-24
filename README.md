@@ -1,2 +1,3 @@
-# Hello-world
-Week 1 practical 
+# My first repo
+
+This is my first repo. That's why I've called this repo "Hello world"
